@@ -13,6 +13,7 @@ function IndexPopup() {
       <h1>
         Welcome to your <a href="https://www.plasmo.com">Plasmo</a> Extension!
       </h1>
+      <div>asdfasdf</div>
       <input onChange={(e) => setData(e.target.value)} value={data} />
     </div>
   )
